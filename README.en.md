@@ -1,3 +1,4 @@
+[中文版](README.md)
 # APEX Pack Pity Counter
 
 A Windows desktop application for manually tracking Apex Legends pack pity progress. It records the number of packs opened and the number of heirlooms obtained, then allows you to reset the pack counter after receiving an heirloom.

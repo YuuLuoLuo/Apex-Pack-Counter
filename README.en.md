@@ -16,7 +16,7 @@ A Windows desktop application for manually tracking Apex Legends pack pity progr
 - Windows 10 or later
 - Python 3.10+
 
-The application uses Tkinter for its interface. Tkinter is usually included with the Windows distribution of Python. If you see an error about a missing `tkinter` module, reinstall Python and enable the Tcl/Tk component.
+The application uses Tkinter for its interface. If you see an error about a missing `tkinter` module, reinstall Python and enable the Tcl/Tk component.
 
 ## Run From Source
 

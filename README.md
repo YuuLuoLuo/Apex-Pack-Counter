@@ -16,7 +16,7 @@
 - Windows 10 或更高版本
 - Python 3.10+
 
-程序使用 Tkinter 创建界面。Tkinter 通常随 Windows 版 Python 一起安装；如果运行时报缺少 `tkinter`，请重新安装 Python 并启用 Tcl/Tk 组件。
+程序使用 Tkinter 创建界面。如果运行时报缺少 `tkinter`，请重新安装 Python 并启用 Tcl/Tk 组件。
 
 ## 从源码运行
 
